@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CambioDivisas4C</string>
+    <string name="titulo">Conversor de Divisas</string>
+    <string name="cantidad">Digita la cantidad a convertir</string>
+    <string name="convertir">Convertir</string>
+    <string-array name="tipoMoneda">
+        <item>PesoMx</item>
+        <item>Dollar</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
